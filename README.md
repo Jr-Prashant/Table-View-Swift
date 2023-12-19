@@ -7,7 +7,7 @@ https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/ef9b016f-cc5a-4
 
 <img width="319" alt="Screenshot 2023-11-22 at 5 08 57 PM" src="https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/81e5eb71-8a58-464f-a40e-40a195274a3b">
 
-3. Add User Details
+2. Add User Details
 
 <img width="332" alt="Screenshot 2023-11-22 at 5 09 08 PM" src="https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/cd42c39a-096e-47b7-9b26-0466d47282d2">
 
@@ -19,7 +19,7 @@ https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/ef9b016f-cc5a-4
 
 <img width="332" alt="Screenshot 2023-11-22 at 5 09 08 PM" src="https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/73e62c2d-dc84-4cec-9b46-a4ed58ec612c">
 
-6. Delete user
+5. Delete user
 
 <img width="332" alt="Screenshot 2023-11-22 at 5 09 08 PM" src="https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/613e1871-8158-42a3-818a-b852f8e44e17">
 <img width="332" alt="Screenshot 2023-11-22 at 5 09 08 PM" src="https://github.com/Jr-Prashant/Table-View-Swift/assets/151605109/bb6a0595-b453-4862-8f60-a2b8f0754166">
